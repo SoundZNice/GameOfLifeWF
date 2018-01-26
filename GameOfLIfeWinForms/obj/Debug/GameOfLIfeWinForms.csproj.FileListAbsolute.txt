@@ -1,0 +1,9 @@
+I:\Codes\GameOfLife\GameOfLIfeWinForms\bin\Debug\GameOfLIfeWinForms.exe.config
+I:\Codes\GameOfLife\GameOfLIfeWinForms\bin\Debug\GameOfLIfeWinForms.exe
+I:\Codes\GameOfLife\GameOfLIfeWinForms\bin\Debug\GameOfLIfeWinForms.pdb
+I:\Codes\GameOfLife\GameOfLIfeWinForms\obj\Debug\GameOfLIfeWinForms.csprojResolveAssemblyReference.cache
+I:\Codes\GameOfLife\GameOfLIfeWinForms\obj\Debug\GameOfLIfeWinForms.Form1.resources
+I:\Codes\GameOfLife\GameOfLIfeWinForms\obj\Debug\GameOfLIfeWinForms.Properties.Resources.resources
+I:\Codes\GameOfLife\GameOfLIfeWinForms\obj\Debug\GameOfLIfeWinForms.csproj.GenerateResource.Cache
+I:\Codes\GameOfLife\GameOfLIfeWinForms\obj\Debug\GameOfLIfeWinForms.exe
+I:\Codes\GameOfLife\GameOfLIfeWinForms\obj\Debug\GameOfLIfeWinForms.pdb
